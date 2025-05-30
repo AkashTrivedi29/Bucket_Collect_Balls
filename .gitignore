@@ -1,0 +1,7 @@
+# .gitignore
+*.zip
+*.DS_Store
+*.log
+.vscode/
+.DS_Store
+__MACOSX/
